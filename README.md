@@ -6,7 +6,6 @@ A novel way to detect target gene in large scale screening
 
 
 ```pip install Gangler```
-### PLEASE INSTALL: pandas, matplotlib, seaborn BEFORE USE
 This package can help find candidate genes in high throughput mutagenesis and suppressor screening experiments
 without mapping.
 Please call variants via freebayes and annotate with snpeff before using this package.
